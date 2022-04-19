@@ -9,8 +9,10 @@ For the challenge part, Oahu temperatures in June and December were compared acr
 
 ## Results
 
-- The average temperature in June in Oahu is around 75 degrees Fahrenheit and the average temperature in December is slightly lower at 71 degrees Fafrenheit. 
-- The maximum temperatures are very similar in June (85) and December (83).
-- The minimum temperatures show high variance in June (64) and December (56).
+- The average temperature in June in Oahu is around 75°F and the average temperature in December is slightly lower at 71°F. 
+- The maximum temperatures are very similar in June (85°F) and December (83°F).
+- The minimum temperatures show high variance in June (64°F) and December (56°F).
 - The standard deviations in both June (3.26) and December (3.75) show that the temperatures generally hover around their average although December might have slightly more variations.
+
+![](Images/june_summary_statistics.png)      ![](Images/dec_summary_statistics.png)
 
