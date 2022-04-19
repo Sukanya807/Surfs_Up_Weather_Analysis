@@ -14,5 +14,28 @@ For the challenge part, Oahu temperatures in June and December were compared acr
 - The minimum temperatures show high variance in June (64°F) and December (56°F).
 - The standard deviations in both June (3.26) and December (3.75) show that the temperatures generally hover around their average although December might have slightly more variations.
 
-![](Images/june_summary_statistics.png)      ![](Images/dec_summary_statistics.png)
+![](Images/june_summary_statistics.png)        ![](Images/december_summary_statistics.png)
+
+## Summary
+
+Overall, the temperature pattern seems pretty similar in June and December( except for the minimum temperatures) and is suitable for investing in the Shake n’ Surf shop. However, it would be better to perform some additional analysis as suggested below before reaching the final decision.
+
+- The precipitation levels in June and December should be compared to see check the amount and frequency of rainfall during these two months. December (22%) seems to have more average rainfall than June (14%) but it is not too much.
+
+![](Images/summary_precipitation.png)
+
+- To check the reliability, the temperature and precipitation statistics for June and December have been calculated based on the data available at the most active station 'USC00519281'. This data seems to be within +-5 range of the summary data calculated earlier.
+
+![](Images/weather_summary_by_station.png)
+
+Based on the analysis done above, opening Shake n’ Surf shop in Ohau can be considered a good investment.
+
+## Tools Used
+- Python
+- SQLite
+- SQLAlchemy
+- Flask
+
+                                               
+ 
 
